@@ -1,6 +1,4 @@
 --------- ATTACH Ehh -------------
-local QBCore = exports['qb-core']:GetCoreObject()
-
 local attachedCarModel = "npolvette"
 
 -- Variable to keep track of the attached car
